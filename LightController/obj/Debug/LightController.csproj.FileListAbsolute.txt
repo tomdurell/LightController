@@ -1,0 +1,7 @@
+C:\Users\Tom Durell\Documents\Work\LightController\LightController\bin\Debug\LightController.exe.config
+C:\Users\Tom Durell\Documents\Work\LightController\LightController\bin\Debug\LightController.exe
+C:\Users\Tom Durell\Documents\Work\LightController\LightController\bin\Debug\LightController.pdb
+C:\Users\Tom Durell\Documents\Work\LightController\LightController\obj\Debug\LightController.csprojResolveAssemblyReference.cache
+C:\Users\Tom Durell\Documents\Work\LightController\LightController\obj\Debug\LightController.csproj.CoreCompileInputs.cache
+C:\Users\Tom Durell\Documents\Work\LightController\LightController\obj\Debug\LightController.exe
+C:\Users\Tom Durell\Documents\Work\LightController\LightController\obj\Debug\LightController.pdb
